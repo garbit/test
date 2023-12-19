@@ -1,3 +1,3 @@
 Hello
 
-Feature: commit 1
+Feature: commit 1 - another change
